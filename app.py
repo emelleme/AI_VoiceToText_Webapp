@@ -4,7 +4,7 @@ import streamlit as st
 
 st.title("ChatGPT-like ChatBot")
 
-openai.api_key = st.secrets["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"]
+openai.api_key = st.secrets["openai_key"]
 
 
 
